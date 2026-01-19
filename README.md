@@ -9,3 +9,12 @@ Feel free to clone or contribute to any of the repositories if you find them use
 ## About Me
 
 With over 20 years of experience in IT, I have a strong background in DevOps, Linux, Cloud technologies, and Big Data. 
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
